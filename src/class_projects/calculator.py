@@ -12,3 +12,11 @@ def multiply(x, y):
 
 product = multiply(7, 28)
 print(product)
+
+
+def division(x, y):
+    return x // y
+
+
+quotient = division(7, 28)
+print(quotient)
